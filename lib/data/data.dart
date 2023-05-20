@@ -8,15 +8,15 @@ Color kGradient2 = Colors.pinkAccent;
 String imagePath = "images/aditya.jpeg";
 
 //String data to modify
-String name = "Your Name";
-String username = "flutterroles";
+String name = "Matteo Moro";
+String username = "devilteo911";
 
 //Link to resume on Google Drive
 String resumeLink =
     "https://drive.google.com/file/d/1uZPqMWva6pZxzQxsR_ILLZ_FxJr24QeY/view?usp=sharing";
 
 //Contact Email
-String contactEmail = "mail@adityathakur.in";
+String contactEmail = "matteomoro996@gmail.com";
 
 String aboutWorkExperience = '''
 Hello I am a freelancer
@@ -26,14 +26,16 @@ He has previously been a speaker at the Flutter Global Summit'21, Flutter Viking
 
 String aboutMeSummary = '''
 Aditya is a content creator and has over 5K subscribers on YouTube and a 700+ member community on Discord. 
+
 📺 YouTube Channel: watch.adityathakur.in
+
 🚀 Discord Community: discord.adityathakur.in
 ''';
 
-String location = "Dharamshala, India";
+String location = "Mestre, Italy";
 String website = "adityathakur.in";
 String portfolio = "adityathakurxd";
-String email = "mail@adityathakur.in";
+String email = "matteomoro996@gmail.com";
 
 List<Project> projectList = [
   Project(
